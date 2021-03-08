@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Politics on Wikipedia
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+This paper seeks to analyze the degree and prevalence of political bias and controversy in Wikipedia. Using pre-trained models from Rheault and Cochrane (2019) and Shapiro and Gentzkow (2019) we validate our methods for generalizability on the ideological books corpus (Sim et al., 2013) with sub-sentential annotations (Iyyer et al., 2014) and attempt to apply these methods to receive insight into political bias in Wikipedia. We attempt to combat overlap in political slants and avoid labeling political bias whose detection is unavoidable due to the topic of the article in question. With insight into political bias on Wikipedia gained we hope it will be able to prove useful in combating counterproductive activity on Wikipedia and allow for more precise and targeted activity by Wikipedia monitors.
