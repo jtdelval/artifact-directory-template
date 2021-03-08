@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/jtdelval/artifact-directory-template.git",
+    "project-repository": "https://github.com/MrYanchos/Politics_on_Wikipedia.git",
+    "dockerhub-repository": "vasyasha/pow_docker:latest",
+    "project-website-url": "https://mryanchos.github.io/PoW/",
+    "project-website-code": "https://github.com/MrYanchos/PoW.git"
 }
